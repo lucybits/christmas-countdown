@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: "Lobster", cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #34374a;
+  color: white;
+}
+.app {
+  text-align: center;
+}
+.title {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
